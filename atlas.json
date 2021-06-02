@@ -3,6 +3,10 @@
 		{
 			"id": 1,
 			"name": "vanilla"
+		},
+		{
+			"id": 2,
+			"name": "modded_1"
 		}
 	],
 	"authors": [
@@ -36,6 +40,16 @@
 			"y": 75,
 			"z": 13,
 			"notes": "Literally it's the big ass pyramid",
+			"OG": true
+		},
+		{
+			"name": "spider_lake",
+			"authorId": 1,
+			"worldId": 2,
+			"x": 26,
+			"y": 21,
+			"z": 93,
+			"notes": "it's a long way down",
 			"OG": true
 		}
 	]
